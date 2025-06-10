@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow
+opencv-python
+Pillow
+huggingface_hub
+requests
+google-generativeai
